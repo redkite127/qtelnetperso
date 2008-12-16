@@ -1,0 +1,246 @@
+<!DOCTYPE QtCreatorProject>
+<qtcreator>
+ <data>
+  <variable>RunConfiguration0-CommandLineArguments</variable>
+  <valuelist type="QVariantList" />
+ </data>
+ <data>
+  <variable>RunConfiguration0-ProFile</variable>
+  <value type="QString" >/home/redkite/Programmation/Qt4/QTelnetPerso/TelnetWidgetTest/TelnetWidgetTest.pro</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-RunConfiguration.name</variable>
+  <value type="QString" >TelnetWidgetTest</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetName</variable>
+  <value type="bool" >false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-type</variable>
+  <value type="QString" >Qt4ProjectManager.Qt4RunConfiguration</value>
+ </data>
+ <data>
+  <variable>activeRunConfiguration</variable>
+  <value type="int" >0</value>
+ </data>
+ <data>
+  <variable>activebuildconfiguration</variable>
+  <value type="QString" >debug</value>
+ </data>
+ <data>
+  <variable>buildConfiguration-debug</variable>
+  <valuemap type="QVariantMap" >
+   <value key="QtVersionId" type="int" >0</value>
+   <value key="addQDumper" type="bool" >true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-release</variable>
+  <valuemap type="QVariantMap" >
+   <value key="QtVersionId" type="int" >0</value>
+   <value key="addQDumper" type="bool" >true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-debug-buildstep0</variable>
+  <valuemap type="QVariantMap" >
+   <valuelist key="abstractProcess.Environment" type="QVariantList" >
+    <value type="QString" >DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-x0ckSFVNeR,guid=e2320b12e28d5ceba3ea416d49478875</value>
+    <value type="QString" >DESKTOP_SESSION=kde</value>
+    <value type="QString" >DESKTOP_STARTUP_ID=</value>
+    <value type="QString" >DISPLAY=:0.0</value>
+    <value type="QString" >DM_CONTROL=/var/run/xdmctl</value>
+    <value type="QString" >GS_LIB=/home/redkite/.fonts</value>
+    <value type="QString" >GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/redkite/.gtkrc-2.0:/home/redkite/.gtkrc-2.0-kde4:/home/redkite/.kde/share/config/gtkrc-2.0</value>
+    <value type="QString" >GTK_RC_FILES=/etc/gtk/gtkrc:/home/redkite/.gtkrc::/home/redkite/.kde/share/config/gtkrc</value>
+    <value type="QString" >HOME=/home/redkite</value>
+    <value type="QString" >KDE_FULL_SESSION=true</value>
+    <value type="QString" >KDE_MULTIHEAD=false</value>
+    <value type="QString" >KDE_SESSION_UID=</value>
+    <value type="QString" >KDE_SESSION_VERSION=4</value>
+    <value type="QString" >LANG=fr_BE.UTF-8</value>
+    <value type="QString" >LOGNAME=redkite</value>
+    <value type="QString" >MALLOC_CHECK_=2</value>
+    <value type="QString" >PATH=/usr/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString" >PWD=/home/redkite</value>
+    <value type="QString" >QTDIR=/usr</value>
+    <value type="QString" >QT_PLUGIN_PATH=/home/redkite/.kde/lib/kde4/plugins/:/usr/lib/kde4/plugins/</value>
+    <value type="QString" >SESSION_MANAGER=local/vendetta:/tmp/.ICE-unix/6779</value>
+    <value type="QString" >SHELL=/bin/bash</value>
+    <value type="QString" >SHLVL=0</value>
+    <value type="QString" >SSH_AGENT_PID=6689</value>
+    <value type="QString" >SSH_AUTH_SOCK=/tmp/ssh-Iwdisw6614/agent.6614</value>
+    <value type="QString" >USER=redkite</value>
+    <value type="QString" >WINDOWPATH=7</value>
+    <value type="QString" >XCURSOR_THEME=oxy-white</value>
+    <value type="QString" >XDG_DATA_DIRS=/usr/share:/usr/share:/usr/local/share</value>
+    <value type="QString" >XDG_SESSION_COOKIE=67c17cf51cbd8a149315bca34890b99f-1229424756.590076-398538094</value>
+    <value type="QString" >XDM_MANAGED=method=classic</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList" >
+    <value type="QString" >/home/redkite/Programmation/Qt4/QTelnetPerso/TelnetWidgetTest/TelnetWidgetTest.pro</value>
+    <value type="QString" >-spec</value>
+    <value type="QString" >/usr/share/qt4/mkspecs/linux-g++</value>
+    <value type="QString" >-r</value>
+    <value type="QString" >CONFIG+=debug_and_release</value>
+    <value type="QString" >-after</value>
+    <value type="QString" >SOURCES*=/home/redkite/Programmation/Qt4/qtcreator/bin/gdbmacros/gdbmacros.cpp</value>
+    <value type="QString" >-after</value>
+    <value type="QString" >QT*=network</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString" >/usr/bin/qmake</value>
+   <value key="abstractProcess.enabled" type="bool" >false</value>
+   <value key="abstractProcess.workingDirectory" type="QString" >/home/redkite/Programmation/Qt4/QTelnetPerso/TelnetWidgetTest</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-debug-buildstep1</variable>
+  <valuemap type="QVariantMap" >
+   <valuelist key="abstractProcess.Environment" type="QVariantList" >
+    <value type="QString" >DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-x0ckSFVNeR,guid=e2320b12e28d5ceba3ea416d49478875</value>
+    <value type="QString" >DESKTOP_SESSION=kde</value>
+    <value type="QString" >DESKTOP_STARTUP_ID=</value>
+    <value type="QString" >DISPLAY=:0.0</value>
+    <value type="QString" >DM_CONTROL=/var/run/xdmctl</value>
+    <value type="QString" >GS_LIB=/home/redkite/.fonts</value>
+    <value type="QString" >GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/redkite/.gtkrc-2.0:/home/redkite/.gtkrc-2.0-kde4:/home/redkite/.kde/share/config/gtkrc-2.0</value>
+    <value type="QString" >GTK_RC_FILES=/etc/gtk/gtkrc:/home/redkite/.gtkrc::/home/redkite/.kde/share/config/gtkrc</value>
+    <value type="QString" >HOME=/home/redkite</value>
+    <value type="QString" >KDE_FULL_SESSION=true</value>
+    <value type="QString" >KDE_MULTIHEAD=false</value>
+    <value type="QString" >KDE_SESSION_UID=</value>
+    <value type="QString" >KDE_SESSION_VERSION=4</value>
+    <value type="QString" >LANG=fr_BE.UTF-8</value>
+    <value type="QString" >LOGNAME=redkite</value>
+    <value type="QString" >MALLOC_CHECK_=2</value>
+    <value type="QString" >PATH=/usr/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString" >PWD=/home/redkite</value>
+    <value type="QString" >QTDIR=/usr</value>
+    <value type="QString" >QT_PLUGIN_PATH=/home/redkite/.kde/lib/kde4/plugins/:/usr/lib/kde4/plugins/</value>
+    <value type="QString" >SESSION_MANAGER=local/vendetta:/tmp/.ICE-unix/6779</value>
+    <value type="QString" >SHELL=/bin/bash</value>
+    <value type="QString" >SHLVL=0</value>
+    <value type="QString" >SSH_AGENT_PID=6689</value>
+    <value type="QString" >SSH_AUTH_SOCK=/tmp/ssh-Iwdisw6614/agent.6614</value>
+    <value type="QString" >USER=redkite</value>
+    <value type="QString" >WINDOWPATH=7</value>
+    <value type="QString" >XCURSOR_THEME=oxy-white</value>
+    <value type="QString" >XDG_DATA_DIRS=/usr/share:/usr/share:/usr/local/share</value>
+    <value type="QString" >XDG_SESSION_COOKIE=67c17cf51cbd8a149315bca34890b99f-1229424756.590076-398538094</value>
+    <value type="QString" >XDM_MANAGED=method=classic</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList" >
+    <value type="QString" >debug</value>
+    <value type="QString" >-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString" >/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool" >true</value>
+   <value key="abstractProcess.workingDirectory" type="QString" >/home/redkite/Programmation/Qt4/QTelnetPerso/TelnetWidgetTest</value>
+   <valuelist key="makeargs" type="QVariantList" >
+    <value type="QString" >debug</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-debug-cleanstep0</variable>
+  <valuemap type="QVariantMap" >
+   <valuelist key="abstractProcess.Environment" type="QVariantList" >
+    <value type="QString" >DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-aPcchy4LDg,guid=5a17916713658e2aefa1b7034942ec86</value>
+    <value type="QString" >DESKTOP_SESSION=kde</value>
+    <value type="QString" >DESKTOP_STARTUP_ID=</value>
+    <value type="QString" >DISPLAY=:0.0</value>
+    <value type="QString" >DM_CONTROL=/var/run/xdmctl</value>
+    <value type="QString" >GS_LIB=/home/redkite/.fonts</value>
+    <value type="QString" >GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/redkite/.gtkrc-2.0:/home/redkite/.gtkrc-2.0-kde4:/home/redkite/.kde/share/config/gtkrc-2.0</value>
+    <value type="QString" >GTK_RC_FILES=/etc/gtk/gtkrc:/home/redkite/.gtkrc::/home/redkite/.kde/share/config/gtkrc</value>
+    <value type="QString" >HOME=/home/redkite</value>
+    <value type="QString" >KDE_FULL_SESSION=true</value>
+    <value type="QString" >KDE_MULTIHEAD=false</value>
+    <value type="QString" >KDE_SESSION_UID=</value>
+    <value type="QString" >KDE_SESSION_VERSION=4</value>
+    <value type="QString" >LANG=fr_BE.UTF-8</value>
+    <value type="QString" >LOGNAME=redkite</value>
+    <value type="QString" >MALLOC_CHECK_=2</value>
+    <value type="QString" >PATH=/usr/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString" >PWD=/home/redkite</value>
+    <value type="QString" >QTDIR=/usr</value>
+    <value type="QString" >QT_PLUGIN_PATH=/home/redkite/.kde/lib/kde4/plugins/:/usr/lib/kde4/plugins/</value>
+    <value type="QString" >SESSION_MANAGER=local/vendetta:/tmp/.ICE-unix/6722</value>
+    <value type="QString" >SHELL=/bin/bash</value>
+    <value type="QString" >SHLVL=0</value>
+    <value type="QString" >SSH_AGENT_PID=6631</value>
+    <value type="QString" >SSH_AUTH_SOCK=/tmp/ssh-OMCOUa6556/agent.6556</value>
+    <value type="QString" >USER=redkite</value>
+    <value type="QString" >WINDOWPATH=7</value>
+    <value type="QString" >XCURSOR_THEME=oxy-white</value>
+    <value type="QString" >XDG_DATA_DIRS=/usr/share:/usr/share:/usr/local/share</value>
+    <value type="QString" >XDG_SESSION_COOKIE=67c17cf51cbd8a149315bca34890b99f-1229122693.199931-461044154</value>
+    <value type="QString" >XDM_MANAGED=method=classic</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList" >
+    <value type="QString" >clean</value>
+    <value type="QString" >-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString" >/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool" >true</value>
+   <value key="abstractProcess.workingDirectory" type="QString" >/home/redkite/Programmation/Qt4/QTelnetPerso/TelnetWidgetTest</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release-buildstep0</variable>
+  <valuemap type="QVariantMap" />
+ </data>
+ <data>
+  <variable>buildconfiguration-release-buildstep1</variable>
+  <valuemap type="QVariantMap" >
+   <valuelist key="makeargs" type="QVariantList" >
+    <value type="QString" >debug</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-release-cleanstep0</variable>
+  <valuemap type="QVariantMap" />
+ </data>
+ <data>
+  <variable>buildconfigurations</variable>
+  <valuelist type="QVariantList" >
+   <value type="QString" >debug</value>
+   <value type="QString" >release</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>buildstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="mkspec" type="QString" ></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep1</variable>
+  <valuemap type="QVariantMap" />
+ </data>
+ <data>
+  <variable>buildsteps</variable>
+  <valuelist type="QVariantList" >
+   <value type="QString" >trolltech.qt4projectmanager.qmake</value>
+   <value type="QString" >trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>cleanstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="clean" type="bool" >true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>cleansteps</variable>
+  <valuelist type="QVariantList" >
+   <value type="QString" >trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>project</variable>
+  <valuemap type="QVariantMap" />
+ </data>
+</qtcreator>
