@@ -11,7 +11,7 @@ MainWindowImpl::MainWindowImpl( QWidget * parent, Qt::WFlags f) : QMainWindow(pa
 
 void MainWindowImpl::on_connectButton_clicked()
 {
-    mtw->connectToHost("localhost");
+    mtw->connectToHost("localhost", 2001);
     connect(mtw, SIGNAL(bellReceived()),this,SLOT(alert()));
 }
 
